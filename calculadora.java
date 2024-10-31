@@ -7,6 +7,7 @@ public class calculadora {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Bienvenido a la calculadora básica");
         System.out.println("------------------------------------");
+        System.out.println("------------------------------------");
         
         // Pide al usuario que ingrese dos números
         System.out.print("Introduce el primer número: ");
